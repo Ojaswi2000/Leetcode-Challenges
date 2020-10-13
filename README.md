@@ -8,6 +8,7 @@ The link for the October Leetcoding challenge :
 <br>
 [https://leetcode.com/explore/featured/card/october-leetcoding-challenge/](https://leetcode.com/explore/featured/card/october-leetcoding-challenge/)
 
+
 #### Buddy Strings
 The link for this problem is :
 <br>
