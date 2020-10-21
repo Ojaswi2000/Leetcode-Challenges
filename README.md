@@ -16,3 +16,7 @@ The link for the October Leetcoding challenge :
 The link for this problem is :
 <br>
 [https://leetcode.com/problems/buddy-strings/](https://leetcode.com/problems/buddy-strings/)
+
+#### Largest Sustring between Two Equal Characters
+The link for this problem is :
+<br>
