@@ -12,12 +12,12 @@ The link for the October Leetcoding challenge :
 <br>
 ![leet](https://user-images.githubusercontent.com/65769340/95915103-4eb26f80-0dc4-11eb-8d74-6b2523b2aff6.PNG)
 
-#### Buddy Strings
+#### Buddy Strings (October Leetcoding Challenge)
 The link for this problem is :
 <br>
 [https://leetcode.com/problems/buddy-strings/](https://leetcode.com/problems/buddy-strings/)
 
-#### Largest Sustring between Two Equal Characters
+#### Largest Sustring between Two Equal Characters (Contest Problem)
 The link for this problem is :
 <br>
 [https://leetcode.com/problems/largest-substring-between-two-equal-characters/](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
