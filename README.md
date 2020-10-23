@@ -21,3 +21,8 @@ The link for this problem is :
 The link for this problem is :
 <br>
 [https://leetcode.com/problems/largest-substring-between-two-equal-characters/](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)
+
+#### Longest Substring Without Repeating Characters
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
