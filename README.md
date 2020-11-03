@@ -26,3 +26,8 @@ The link for this problem is :
 The link of the problem is :
 <br>
 [https://leetcode.com/problems/longest-substring-without-repeating-characters/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+#### Generate a String With Characters That Have Odd Counts
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
