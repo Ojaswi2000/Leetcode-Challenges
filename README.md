@@ -31,3 +31,10 @@ The link of the problem is :
 The link of the problem is :
 <br>
 [https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
+
+#### Check If a Word Occurs As a Prefix of Any Word in a Sentence
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
+
+
