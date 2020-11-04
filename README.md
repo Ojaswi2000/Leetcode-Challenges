@@ -37,4 +37,10 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)
 
+#### First Unique Character in a String
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/first-unique-character-in-a-string/](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
+
 
