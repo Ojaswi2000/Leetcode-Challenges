@@ -42,5 +42,12 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/first-unique-character-in-a-string/](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
+#### Consecutive Characters (November Leetcode Challenge)
+The link of the problem is :
+<br>
+[https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/)
+
+
+
 
 
