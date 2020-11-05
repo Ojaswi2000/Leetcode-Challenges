@@ -47,6 +47,11 @@ The link of the problem is :
 <br>
 [https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/](https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3518/)
 
+#### Move Zeroes(Top 100 Liked Questions)
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/move-zeroes/](https://leetcode.com/problems/move-zeroes/)
+
 
 
 
