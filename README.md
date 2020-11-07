@@ -62,6 +62,11 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/delete-operation-for-two-strings/](https://leetcode.com/problems/delete-operation-for-two-strings/)
 
+#### Ada and Dishes(November Long Challenge-Division 2)
+The link of the problem is :
+<br>
+[https://www.codechef.com/NOV20B/problems/ADADISH](https://www.codechef.com/NOV20B/problems/ADADISH)
+
 
 
 
