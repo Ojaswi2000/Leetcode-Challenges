@@ -57,6 +57,13 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/find-the-difference/](https://leetcode.com/problems/find-the-difference/)
 
+#### Delete Operation for Two Strings (String problem-Dynamic Programming)
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/delete-operation-for-two-strings/](https://leetcode.com/problems/delete-operation-for-two-strings/)
+
+
+
 
 
 
