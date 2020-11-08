@@ -82,6 +82,21 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/JULY20B/problems/PTMSSNG](https://www.codechef.com/JULY20B/problems/PTMSSNG)
 
+#### Ada and Dishes(November Long Challenge-Division 2)
+The link of the problem is :
+<br>
+[https://www.codechef.com/NOV20B/problems/ADADISH](https://www.codechef.com/NOV20B/problems/ADADISH)
+
+#### Restore Sequence(November Long Challenge-Division 2)
+The link of the problem is :
+<br>
+[https://www.codechef.com/NOV20B/problems/RESTORE](https://www.codechef.com/NOV20B/problems/RESTORE)
+
+
+
+
+
+
 
 
 
