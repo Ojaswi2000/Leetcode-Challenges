@@ -62,36 +62,25 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/delete-operation-for-two-strings/](https://leetcode.com/problems/delete-operation-for-two-strings/)
 
-#### Chef and Strings(July Long Challenge-Division 1)
+#### Chef and Strings(July Long Challenge-Division 2)
 The link of the problem is :
 <br>
-[https://www.codechef.com/NOV20B/problems/ADADISH](https://www.codechef.com/NOV20B/problems/ADADISH)
+[https://www.codechef.com/JULY20B/problems/CHEFSTR1](https://www.codechef.com/JULY20B/problems/CHEFSTR1)
 
-#### Chef and Strings(July Long Challenge-Division 1)
+#### Chef and Card Game(July Long Challenge-Division 2)
 The link of the problem is :
 <br>
-[https://www.codechef.com/NOV20B/problems/ADADISH](https://www.codechef.com/NOV20B/problems/ADADISH)
+[https://www.codechef.com/JULY20B/problems/CRDGAME](https://www.codechef.com/JULY20B/problems/CRDGAME)
 
-#### Chef and Strings(July Long Challenge-Division 1)
+#### Ada King(July Long Challenge-Division 2)
 The link of the problem is :
 <br>
-[https://www.codechef.com/NOV20B/problems/ADADISH](https://www.codechef.com/NOV20B/problems/ADADISH)
+[https://www.codechef.com/JULY20B/problems/ADAKING](https://www.codechef.com/JULY20B/problems/ADAKING)
 
-#### Chef and Strings(July Long Challenge-Division 1)
+#### Missing a Point(July Long Challenge-Divison 2)
 The link of the problem is :
 <br>
-[https://www.codechef.com/NOV20B/problems/ADADISH](https://www.codechef.com/NOV20B/problems/ADADISH)
-
-
-#### Ada and Dishes(November Long Challenge-Division 2)
-The link of the problem is :
-<br>
-[https://www.codechef.com/NOV20B/problems/ADADISH](https://www.codechef.com/NOV20B/problems/ADADISH)
-
-#### Restore Sequence(November Long Challenge-Divison 2)
-The link of the problem is :
-<br>
-[https://www.codechef.com/NOV20B/problems/RESTORE](https://www.codechef.com/NOV20B/problems/RESTORE)
+[https://www.codechef.com/JULY20B/problems/PTMSSNG](https://www.codechef.com/JULY20B/problems/PTMSSNG)
 
 
 
