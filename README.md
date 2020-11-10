@@ -62,6 +62,11 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/delete-operation-for-two-strings/](https://leetcode.com/problems/delete-operation-for-two-strings/)
 
+#### Minimum Number of Steps to Make 2 Strings Anagram
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)
+
 #### Chef and Strings(July Long Challenge-Division 2)
 The link of the problem is :
 <br>
@@ -91,6 +96,8 @@ The link of the problem is :
 The link of the problem is :
 <br>
 [https://www.codechef.com/NOV20B/problems/RESTORE](https://www.codechef.com/NOV20B/problems/RESTORE)
+
+
 
 
 
