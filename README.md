@@ -102,6 +102,10 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/unique-email-addresses/](https://leetcode.com/problems/unique-email-addresses/)
 
+#### Unique 69Number
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/maximum-69-number/](https://leetcode.com/problems/maximum-69-number/)
 
 
 
