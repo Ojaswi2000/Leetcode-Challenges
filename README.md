@@ -107,7 +107,10 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/maximum-69-number/](https://leetcode.com/problems/maximum-69-number/)
 
-
+#### String Matching in an Array
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/string-matching-in-an-array/](https://leetcode.com/problems/string-matching-in-an-array/)
 
 
 
