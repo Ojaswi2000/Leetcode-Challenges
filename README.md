@@ -117,6 +117,11 @@ The link of the problem is :
 <br>
 [https://leetcode.com/contest/weekly-contest-217/problems/richest-customer-wealth/](https://leetcode.com/contest/weekly-contest-217/problems/richest-customer-wealth/)
 
+#### Find the Most Competitive Subsequence(217th Weekly Contest)
+The link of the problem is :
+<br>
+[https://leetcode.com/contest/weekly-contest-217/problems/find-the-most-competitive-subsequence/](https://leetcode.com/contest/weekly-contest-217/problems/find-the-most-competitive-subsequence/)
+
 
 
 
