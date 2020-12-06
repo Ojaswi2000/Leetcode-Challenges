@@ -122,6 +122,10 @@ The link of the problem is :
 <br>
 [https://leetcode.com/contest/weekly-contest-217/problems/find-the-most-competitive-subsequence/](https://leetcode.com/contest/weekly-contest-217/problems/find-the-most-competitive-subsequence/)
 
+#### Even-Pair Sum
+The link of the problem is:
+<br>
+[https://www.codechef.com/DEC20B/problems/EVENPSUM](https://www.codechef.com/DEC20B/problems/EVENPSUM)
 
 #### Vaccine Distribution(December Codechef Long Challenge)
 The link of the problem is :
