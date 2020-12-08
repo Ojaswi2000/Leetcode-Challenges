@@ -142,6 +142,12 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/AUG20B/problems/CHEFWARS](https://www.codechef.com/AUG20B/problems/CHEFWARS)
 
+#### Chef and Linear Chess(August Codechef Long Challenge)
+The link of the problem is :
+<br>
+[https://www.codechef.com/AUG20B/problems/LINCHESS](https://www.codechef.com/AUG20B/problems/LINCHESS)
+
+
 
 
 
