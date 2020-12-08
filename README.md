@@ -152,6 +152,10 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/AUG20B/problems/CRDGAME3](https://www.codechef.com/AUG20B/problems/CRDGAME3)
 
+#### Smallest KMP(August Codechef Long Challenge)
+The link of the problem is :
+<br>
+[https://www.codechef.com/AUG20B/problems/SKMP](https://www.codechef.com/AUG20B/problems/SKMP)
 
 
 
