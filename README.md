@@ -157,6 +157,11 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/AUG20B/problems/SKMP](https://www.codechef.com/AUG20B/problems/SKMP)
 
+#### Postive Prefixes(December Codechef Long Challenge)
+The link of the problem is :
+<br>
+[https://www.codechef.com/DEC20B/problems/POSPREFS](https://www.codechef.com/DEC20B/problems/POSPREFS)
+
 
 
 
