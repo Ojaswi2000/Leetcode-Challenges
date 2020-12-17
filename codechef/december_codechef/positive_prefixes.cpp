@@ -37,48 +37,44 @@ int main() {
 	    long long int n,k;
 	    cin>>n>>k;
 	    vector<long long int>v;
-	    for(int i=1;i<=n;i++)
+	    for(int i=0;i<n;i++)
 	    {
 	        if(i%2!=0)
-	        v.push_back(i);
+	        v.push_back(-(i+1));
 	        else
-	        v.push_back(-i);
+	        v.push_back(i+1);
 	    }
 	    long long int positives=ceil((double)n/2);
 	    long long need;
 	    if(k>positives)
 	    {
 	        need=k-positives;
+	        int i=n-1;
 	        while(need>0)
 	        {
-	            for(int i=n-1;i>=0;i--)
+	            if(v[i]<0)
 	            {
-	                if(v[i]<0)
-	                {
 	                v[i]*=-1;
 	                need--;
-	                }
 	            }
-	            
+	            i-=1;
 	        }
-	    }
-	    else if(k<positives)
+	   }
+	    if(k<positives)
 	    {
 	        need=positives-k;
+	        int i=n-1;
 	        while(need>0)
 	        {
-	            for(int i=n-1;i>=0;i--)
+	            if(v[i]>0)
 	            {
-	                if(v[i]>0)
-	                {
 	                v[i]*=-1;
 	                need--;
-	                }
 	            }
-	            
+	            i-=1;
 	        }
 	    }
-	    for(int i=1;i<=n;i++)
+	    for(int i=0;i<n;i++)
 	    cout<<v[i]<<" ";
 	    cout<<"\n";
 	    
