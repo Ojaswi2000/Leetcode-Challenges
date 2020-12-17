@@ -26,6 +26,7 @@ Example Output
 */
 #include <iostream>
 #include<vector>
+#include<math.h>
 using namespace std;
 
 int main() {
@@ -33,40 +34,53 @@ int main() {
 	cin>>t;
 	while(t--)
 	{
-	    long long int n,k,count=0;
+	    long long int n,k;
 	    cin>>n>>k;
 	    vector<long long int>v;
-	    for(int i=0;i<n;i++)
-	    v.push_back(i+1);
-	    if(n==k)
+	    for(int i=1;i<=n;i++)
 	    {
-	        for(int i=0;i<n;i++)
-	        cout<<v[i]<<" ";
-	        cout<<"\n";
+	        if(i%2!=0)
+	        v.push_back(i);
+	        else
+	        v.push_back(-i);
 	    }
-	    else
+	    long long int positives=ceil((double)n/2);
+	    long long need;
+	    if(k>positives)
 	    {
-	    for(int i=0;i<n;i+=2)
-	    v[i]=-1*v[i];
-	    for(int i=0;i<n;i++)
-	    {
-	        if(v[i]<0)
-	        count++;
-	    }
-	    for(int i=n-1;i>=0;i--)
-	    {
-	        if(v[i]>0)
+	        need=k-positives;
+	        while(need>0)
 	        {
-	            count++;
-	            v[i]=-1*v[i];
+	            for(int i=n-1;i>=0;i--)
+	            {
+	                if(v[i]<0)
+	                {
+	                v[i]*=-1;
+	                need--;
+	                }
+	            }
+	            
 	        }
-	        if(count==n-k)
-	        break;
 	    }
-	    for(int i=0;i<n;i++)
+	    else if(k<positives)
+	    {
+	        need=positives-k;
+	        while(need>0)
+	        {
+	            for(int i=n-1;i>=0;i--)
+	            {
+	                if(v[i]>0)
+	                {
+	                v[i]*=-1;
+	                need--;
+	                }
+	            }
+	            
+	        }
+	    }
+	    for(int i=1;i<=n;i++)
 	    cout<<v[i]<<" ";
 	    cout<<"\n";
-	    }
 	    
 	}
 	return 0;
