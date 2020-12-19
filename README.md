@@ -172,4 +172,9 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/unique-paths/](https://leetcode.com/problems/unique-paths/)
 
+#### String Matching in an Array
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/string-matching-in-an-array/](https://leetcode.com/problems/string-matching-in-an-array/)
+
 
