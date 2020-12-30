@@ -177,4 +177,11 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/string-matching-in-an-array/](https://leetcode.com/problems/string-matching-in-an-array/)
 
+#### Bit Difference
+The link of the problem is :
+<br>
+[https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
+
+
+
 
