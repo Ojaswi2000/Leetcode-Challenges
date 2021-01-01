@@ -182,6 +182,10 @@ The link of the problem is :
 <br>
 [https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
 
+#### Chef and Division 3
+The link of the problem is :
+<br>
+[https://www.codechef.com/JAN21C/problems/DIVTHREE](https://www.codechef.com/JAN21C/problems/DIVTHREE)
 
 
 
