@@ -187,6 +187,11 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/JAN21C/problems/DIVTHREE](https://www.codechef.com/JAN21C/problems/DIVTHREE)
 
+#### Fair Elections(January Long Challenge )
+The link of the problem is :
+<br>
+[https://www.codechef.com/JAN21C/problems/FAIRELCT](https://www.codechef.com/JAN21C/problems/FAIRELCT)
+
 #### Point of Impact(January Long Challenge )
 The link of the problem is :
 <br>
