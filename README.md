@@ -187,5 +187,10 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/JAN21C/problems/DIVTHREE](https://www.codechef.com/JAN21C/problems/DIVTHREE)
 
+#### Point of Impact(January Long Challenge )
+The link of the problem is :
+<br>
+[https://www.codechef.com/JAN21C/problems/BILLRD](https://www.codechef.com/JAN21C/problems/BILLRD)
+
 
 
