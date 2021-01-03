@@ -182,10 +182,15 @@ The link of the problem is :
 <br>
 [https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/](https://www.geeksforgeeks.org/count-number-of-bits-to-be-flipped-to-convert-a-to-b/)
 
-#### Chef and Division 3
+#### Chef and Division 3(January Long Challenge )
 The link of the problem is :
 <br>
 [https://www.codechef.com/JAN21C/problems/DIVTHREE](https://www.codechef.com/JAN21C/problems/DIVTHREE)
+
+#### Encoded String(January Long Challenge )
+The link of the problem is :
+<br>
+[https://www.codechef.com/JAN21C/problems/DECODEIT](https://www.codechef.com/JAN21C/problems/DECODEIT)
 
 #### Fair Elections(January Long Challenge )
 The link of the problem is :
