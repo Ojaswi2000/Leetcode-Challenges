@@ -202,5 +202,13 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/JAN21C/problems/BILLRD](https://www.codechef.com/JAN21C/problems/BILLRD)
 
+#### Max Number of K-Sum Pairs
+The link of the problem is :
+<br>
+[https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3608/](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3608/)
+
+
+
+
 
 
