@@ -212,6 +212,10 @@ The link of the problem is :
 <br>
 [https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3607/](https://leetcode.com/explore/challenge/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3607/)
 
+#### Increasing Decreasing String
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/increasing-decreasing-string/](https://leetcode.com/problems/increasing-decreasing-string/)
 
 
 
