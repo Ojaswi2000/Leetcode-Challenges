@@ -222,5 +222,10 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/top-k-frequent-elements/](https://leetcode.com/problems/top-k-frequent-elements/)
 
+#### College Life 2
+The link of the problem is :
+<br>
+[https://www.codechef.com/START1C/problems/COLGLF2](https://www.codechef.com/START1C/problems/COLGLF2)
+
 
 
