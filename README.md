@@ -237,5 +237,17 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/FEB21C/problems/HDIVISR](https://www.codechef.com/FEB21C/problems/HDIVISR)
 
+#### Maximise Function
+The link of the problem is :
+<br>
+[https://www.codechef.com/FEB21C/problems/MAXFUN](https://www.codechef.com/FEB21C/problems/MAXFUN)
+
+#### Chef and Meetings
+The link of the problem is :
+<br>
+[https://www.codechef.com/FEB21C/problems/MEET](https://www.codechef.com/FEB21C/problems/MEET)
+
+
+
 
 
