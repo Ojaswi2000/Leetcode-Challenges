@@ -247,6 +247,12 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/FEB21C/problems/MEET](https://www.codechef.com/FEB21C/problems/MEET)
 
+#### Solubolity(May LLong Challenge 2021)
+The link of the problem is :
+<br>
+[https://www.codechef.com/MAY21C/problems/SOLBLTY](https://www.codechef.com/MAY21C/problems/SOLBLTY)
+
+
 
 
 
