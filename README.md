@@ -262,6 +262,11 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/JUNE21C/problems/COCONUT](https://www.codechef.com/JUNE21C/problems/COCONUT)
 
+#### Determine Whether Matrix Can Be Obtained By Rotation
+The link of the problem is :
+<br>
+[https://leetcode.com/submissions/detail/505080431/](https://leetcode.com/submissions/detail/505080431/)
+
 
 
 
