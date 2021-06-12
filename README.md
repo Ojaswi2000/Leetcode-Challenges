@@ -267,6 +267,11 @@ The link of the problem is :
 <br>
 [https://leetcode.com/submissions/detail/505080431/](https://leetcode.com/submissions/detail/505080431/)
 
+#### Bella Ciao(June Long Challenge 2021)
+The link of the problem is :
+<br>
+[https://www.codechef.com/JUNE21C/problems/CHFHEIST](https://www.codechef.com/JUNE21C/problems/CHFHEIST)
+
 
 
 
