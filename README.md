@@ -272,6 +272,11 @@ The link of the problem is :
 <br>
 [https://www.codechef.com/JUNE21C/problems/CHFHEIST](https://www.codechef.com/JUNE21C/problems/CHFHEIST)
 
+#### Jump Game 2
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/jump-game-ii/submissions/](https://leetcode.com/problems/jump-game-ii/submissions/)
+
 
 
 
