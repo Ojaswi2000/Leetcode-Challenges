@@ -277,6 +277,11 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/jump-game-ii/submissions/](https://leetcode.com/problems/jump-game-ii/submissions/)
 
+#### Merge Intervals
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/merge-intervals/submissions/](https://leetcode.com/problems/merge-intervals/submissions/)
+
 
 
 
