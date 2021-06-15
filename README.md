@@ -282,7 +282,10 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/merge-intervals/submissions/](https://leetcode.com/problems/merge-intervals/submissions/)
 
-
+#### Count Pairs with given sum
+The link of the problem is :
+<br>
+[https://www.geeksforgeeks.org/count-pairs-with-given-sum/](https://www.geeksforgeeks.org/count-pairs-with-given-sum/)
 
 
 
