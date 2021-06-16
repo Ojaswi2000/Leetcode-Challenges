@@ -288,6 +288,12 @@ The link of the problem is :
 [https://www.geeksforgeeks.org/count-pairs-with-given-sum/](https://www.geeksforgeeks.org/count-pairs-with-given-sum/)
 
 
+#### Factorial of large number
+The link of the problem is :
+<br>
+[https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
+
+
 
 
 
