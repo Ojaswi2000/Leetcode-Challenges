@@ -293,6 +293,11 @@ The link of the problem is :
 <br>
 [https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1)
 
+#### Longest Consecutive Subsequence
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/longest-consecutive-sequence/submissions/](https://leetcode.com/problems/longest-consecutive-sequence/submissions/)
+
 
 
 
