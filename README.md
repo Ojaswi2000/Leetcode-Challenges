@@ -314,7 +314,9 @@ The link of the problem is :
 <br>
 [https://www.geeksforgeeks.org/chocolate-distribution-problem/](https://www.geeksforgeeks.org/chocolate-distribution-problem/)
 
-
-
+#### Minimum Size Subarray Sum
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/minimum-size-subarray-sum/](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 
