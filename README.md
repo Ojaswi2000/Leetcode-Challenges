@@ -303,6 +303,11 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
+#### Trapping Rain Water
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/trapping-rain-water/](https://leetcode.com/problems/trapping-rain-water/)
+
 
 
 
