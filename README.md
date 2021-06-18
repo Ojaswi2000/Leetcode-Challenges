@@ -309,6 +309,10 @@ The link of the problem is :
 [https://leetcode.com/problems/trapping-rain-water/](https://leetcode.com/problems/trapping-rain-water/)
 
 
+#### Chocolate Distribution Problem
+The link of the problem is :
+<br>
+[https://www.geeksforgeeks.org/chocolate-distribution-problem/](https://www.geeksforgeeks.org/chocolate-distribution-problem/)
 
 
 
