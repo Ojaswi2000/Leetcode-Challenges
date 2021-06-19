@@ -319,4 +319,9 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/minimum-size-subarray-sum/](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
+#### Minimum Swaps required to bring elements less tahn equal to k together
+The link of the problem is :
+<br>
+[https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1)
+
 
