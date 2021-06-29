@@ -329,4 +329,10 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/spiral-matrix/](https://leetcode.com/problems/spiral-matrix/)
 
+#### Find Pair Given Difference
+The link of the problem is :
+<br>
+[https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1#](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1#)
+
+
 
