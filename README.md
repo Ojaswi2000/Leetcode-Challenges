@@ -334,5 +334,11 @@ The link of the problem is :
 <br>
 [https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1#](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1#)
 
+#### Stickler Thief
+The link of the problem is :
+<br>
+[https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1#](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1#)
+
+
 
 
