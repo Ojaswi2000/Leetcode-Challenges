@@ -339,6 +339,11 @@ The link of the problem is :
 <br>
 [https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1#](https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1#)
 
+#### Subarray with sum equals K
+The link of the problem is :
+<br>
+[https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1#](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1#)
+
 
 
 
