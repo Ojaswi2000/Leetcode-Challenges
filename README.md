@@ -344,6 +344,10 @@ The link of the problem is :
 <br>
 [https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1#](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1#)
 
+#### Sort Integers by The Number of 1 Bits
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 
 
 
