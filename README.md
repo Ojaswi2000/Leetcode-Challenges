@@ -349,5 +349,10 @@ The link of the problem is :
 <br>
 [https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 
+#### Cells in a range on an Excel Sheet
+The link of the problem is :
+<br>
+[https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/discuss/1824082/C%2B%2B-or-Brute-Force-or-Clean-and-Concise](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/discuss/1824082/C%2B%2B-or-Brute-Force-or-Clean-and-Concise)
+
 
 
